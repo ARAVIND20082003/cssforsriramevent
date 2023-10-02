@@ -1,0 +1,78 @@
+body{
+    background-image: url(cs1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: azure;
+    color: red;
+    display: inline;
+    padding: 10px;
+}
+ul,li,h1{
+    
+    display: inline;
+}
+ul{
+    margin-left: 17%;
+}
+h1{
+    margin-left: 25%;
+}
+li:hover{
+    color: black;
+    background-color: azure;
+}
+#evt{
+    
+    border-color: blanchedalmond;
+    border-top: 250px;
+    border-style: solid;
+    border-width: 5px;
+    padding: 20px;
+    display: inline-block;
+    width: 300px;
+    margin-top: 20%;
+    margin-left: 20%;
+
+}
+#evt1{
+    
+    border-color: blanchedalmond;
+    border-top: 150px;
+    border-style: solid;
+    border-width: 5px;
+    padding: 20px;
+    display: inline-block;
+    width: 300px;
+    margin-top: 20%;
+    margin-left: 10%;
+
+}
+#evt:hover{
+    color: black;
+    background-color: rgb(16, 92, 92);
+}
+#evt1:hover{
+    color: black;
+    background-color: rgb(16, 92, 92);
+}
+#evt2{
+    
+    border-color: blanchedalmond;
+    border-top: 150px;
+    border-style: solid;
+    border-width: 5px;
+    padding: 20px;
+    display: inline-block;
+    width: 300px;
+    margin-top: 10%;
+    margin-left: 35%;
+
+}
+#evt2:hover{
+    background-color: rgb(15, 159, 195);
+}
